@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/stats-preview-card/static/css/main.aee21691.css",
+    "main.js": "/stats-preview-card/static/js/main.4ec99a26.js",
+    "static/media/Inter-Bold.ttf": "/stats-preview-card/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-Regular.ttf": "/stats-preview-card/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/LexendDeca-Regular.ttf": "/stats-preview-card/static/media/LexendDeca-Regular.03da79138eceb612e36c.ttf",
+    "static/media/image-header-mobile.jpg": "/stats-preview-card/static/media/image-header-mobile.399f71e732a77d1f56c6.jpg",
+    "static/media/image-header-desktop.jpg": "/stats-preview-card/static/media/image-header-desktop.72d6e2a00c9131c7b6a6.jpg",
+    "index.html": "/stats-preview-card/index.html",
+    "main.aee21691.css.map": "/stats-preview-card/static/css/main.aee21691.css.map",
+    "main.4ec99a26.js.map": "/stats-preview-card/static/js/main.4ec99a26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee21691.css",
+    "static/js/main.4ec99a26.js"
+  ]
+}
